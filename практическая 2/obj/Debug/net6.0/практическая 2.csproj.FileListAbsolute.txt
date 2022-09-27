@@ -1,0 +1,15 @@
+D:\C# Projects\практическая 2\практическая 2\obj\Debug\net6.0\практическая 2.csproj.AssemblyReference.cache
+D:\C# Projects\практическая 2\практическая 2\obj\Debug\net6.0\практическая 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\практическая 2\практическая 2\obj\Debug\net6.0\практическая 2.AssemblyInfoInputs.cache
+D:\C# Projects\практическая 2\практическая 2\obj\Debug\net6.0\практическая 2.AssemblyInfo.cs
+D:\C# Projects\практическая 2\практическая 2\obj\Debug\net6.0\практическая 2.csproj.CoreCompileInputs.cache
+D:\C# Projects\практическая 2\практическая 2\bin\Debug\net6.0\практическая 2.exe
+D:\C# Projects\практическая 2\практическая 2\bin\Debug\net6.0\практическая 2.deps.json
+D:\C# Projects\практическая 2\практическая 2\bin\Debug\net6.0\практическая 2.runtimeconfig.json
+D:\C# Projects\практическая 2\практическая 2\bin\Debug\net6.0\практическая 2.dll
+D:\C# Projects\практическая 2\практическая 2\bin\Debug\net6.0\практическая 2.pdb
+D:\C# Projects\практическая 2\практическая 2\obj\Debug\net6.0\практическая 2.dll
+D:\C# Projects\практическая 2\практическая 2\obj\Debug\net6.0\refint\практическая 2.dll
+D:\C# Projects\практическая 2\практическая 2\obj\Debug\net6.0\практическая 2.pdb
+D:\C# Projects\практическая 2\практическая 2\obj\Debug\net6.0\практическая 2.genruntimeconfig.cache
+D:\C# Projects\практическая 2\практическая 2\obj\Debug\net6.0\ref\практическая 2.dll
